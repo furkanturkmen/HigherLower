@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">HigherLower</string>
+    <string name="current_score">Current score:</string>
+    <string name="high_score">High score:</string>
+    <string name="todo">TODO</string>
 </resources>
